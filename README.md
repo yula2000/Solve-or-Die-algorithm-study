@@ -9,17 +9,17 @@
     <td align="center"><a href="https://github.com/BooGyya"><img src="https://avatars.githubusercontent.com/BooGyya" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/woo4227-lang"><img src="https://avatars.githubusercontent.com/woo4227-lang" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/msik-j"><img src="https://avatars.githubusercontent.com/msik-j" width="120px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/dayoung-beep"><img src="https://avatars.githubusercontent.com/kdyarchive" width="120px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/dayoung-beep"><img src="https://avatars.githubusercontent.com/dayoung-beep" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/yula2000"><img src="https://avatars.githubusercontent.com/yula2000" width="120px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/haruzora1"><b>haruzora1</b></a> 🎯</td>
-    <td align="center"><a href="https://github.com/l-egulation"><b>l-egulation</b></a></td>
-    <td align="center"><a href="https://github.com/BooGyya"><b>BooGyya</b></a></td>
-    <td align="center"><a href="https://github.com/woo4227-lang"><b>woo4227-lang</b></a></td>
-    <td align="center"><a href="https://github.com/msik-j"><b>msik-j</b></a> 🎯</td>
-    <td align="center"><a href="https://github.com/dayoung-beep"><b>dayoung-beep</b></a></td>
-    <td align="center"><a href="https://github.com/yula2000"><b>yula2000</b></a></td>
+    <td align="center"><a href="https://github.com/haruzora1"><b>수연</b></a> 🎯</td>
+    <td align="center"><a href="https://github.com/l-egulation"><b>규재</b></a></td>
+    <td align="center"><a href="https://github.com/BooGyya"><b>보경</b></a></td>
+    <td align="center"><a href="https://github.com/woo4227-lang"><b>우창</b></a></td>
+    <td align="center"><a href="https://github.com/msik-j"><b>민식</b></a> 🎯</td>
+    <td align="center"><a href="https://github.com/dayoung-beep"><b>다영</b></a></td>
+    <td align="center"><a href="https://github.com/yula2000"><b>유라</b></a></td>
   </tr>
   <tr>
     <td align="center">
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-> 🎯 문제 선정자: **haruzora1** (SSAFY B형 취득) · **msik-j** (SSAFY A형 취득)
+> 🎯 문제 선정자: **수연** (SSAFY B형 취득) · **민식** (SSAFY A형 취득)
 
 &nbsp;
 
