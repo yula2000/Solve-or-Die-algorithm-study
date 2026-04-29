@@ -101,28 +101,43 @@ yula2000/
 
 ## 🔍 참여 방법
 
-### 👓 초기 설정 (최초 1회)
+## 👓 초기 설정 (최초 1회)
 
 1. 레포지토리를 clone합니다.
 
-   ```bash
+```bash
    git clone https://github.com/yula2000/Solve-or-Die-algorithm-study.git
    cd Solve-or-Die-algorithm-study
-   ```
+```
 
-2. 본인 닉네임으로 브랜치를 생성하고 이동합니다.
+2. 현재 브랜치를 확인합니다. (`master`여야 해요)
 
-   ```bash
+```bash
+   git branch
+```
+
+3. 본인 닉네임으로 브랜치를 생성하고 이동합니다.
+
+```bash
    git checkout -b 본인닉네임
-   ```
+```
 
-3. 본인 닉네임으로 폴더를 만듭니다. (예: `yula2000/`)
+4. 본인 닉네임으로 폴더를 만들고 빈 파일을 추가합니다.
 
-4. 원격 저장소에 본인 브랜치를 등록합니다.
+```bash
+   mkdir 본인닉네임
+   touch 본인닉네임/.gitkeep
+```
 
-   ```bash
+5. add, commit, push합니다.
+
+```bash
+   git add .
+   git commit -m "📝docs: add 본인닉네임 folder"
    git push origin 본인닉네임
-   ```
+```
+
+> 💡 `ls 본인닉네임` 쳤을 때 아무것도 안 나와도 정상이에요! `.gitkeep`은 숨김 파일이라 그래요.
 
 &nbsp;
 
