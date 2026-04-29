@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/haruzora1-creator"><img src="https://avatars.githubusercontent.com/haruzora1" width="120px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/haruzora1-creator"><img src="https://avatars.githubusercontent.com/haruzora1-creator" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/l-egulation"><img src="https://avatars.githubusercontent.com/l-egulation" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/BooGyya"><img src="https://avatars.githubusercontent.com/BooGyya" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/woo4227-lang"><img src="https://avatars.githubusercontent.com/woo4227-lang" width="120px;" alt=""></a></td>
