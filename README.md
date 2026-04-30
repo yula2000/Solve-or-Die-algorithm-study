@@ -7,7 +7,7 @@
     <td align="center"><a href="https://github.com/haruzora1-creator"><img src="https://avatars.githubusercontent.com/haruzora1-creator" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/l-egulation"><img src="https://avatars.githubusercontent.com/l-egulation" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/BooGyya"><img src="https://avatars.githubusercontent.com/BooGyya" width="120px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/woo4227-lang"><img src="https://avatars.githubusercontent.com/woo4227-lang" width="120px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/JejuTangerine"><img src="https://avatars.githubusercontent.com/woo4227-lang" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/msik-j"><img src="https://avatars.githubusercontent.com/msik-j" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/dayoung-beep"><img src="https://avatars.githubusercontent.com/dayoung-beep" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/yula2000"><img src="https://avatars.githubusercontent.com/yula2000" width="120px;" alt=""></a></td>
@@ -16,7 +16,7 @@
     <td align="center"><a href="https://github.com/haruzora1-creator"><b>수연</b></a> 🎯</td>
     <td align="center"><a href="https://github.com/l-egulation"><b>규재</b></a></td>
     <td align="center"><a href="https://github.com/BooGyya"><b>보경</b></a></td>
-    <td align="center"><a href="https://github.com/woo4227-lang"><b>우창</b></a></td>
+    <td align="center"><a href="https://github.com/JejuTangerine"><b>우창</b></a></td>
     <td align="center"><a href="https://github.com/msik-j"><b>민식</b></a> 🎯</td>
     <td align="center"><a href="https://github.com/dayoung-beep"><b>다영</b></a></td>
     <td align="center"><a href="https://github.com/yula2000"><b>유라</b></a></td>
