@@ -55,7 +55,7 @@
 
 | 주차 | 주제 | 도전 문제 | 난이도 | 수연 | 민식 | 규재 | 다영 | 유라 | 보경 | 우창 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 1주차 | | 🥈 <br> 🥇 | | | | | | | | |
+| 1주차 | | 🥈 [최장 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV7GOPPaAeMDFAXB&categoryId=AV7GOPPaAeMDFAXB&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=2) <br> 🥇 [Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=4&pageSize=10&pageIndex=1) | SW Expert Academy <br> SW Expert Academy | | | | | | | |
 
 &nbsp;
 
