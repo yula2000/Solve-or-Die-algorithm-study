@@ -7,7 +7,7 @@
     <td align="center"><a href="https://github.com/haruzora1-creator"><img src="https://avatars.githubusercontent.com/haruzora1-creator" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/l-egulation"><img src="https://avatars.githubusercontent.com/l-egulation" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/BooGyya"><img src="https://avatars.githubusercontent.com/BooGyya" width="120px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/JejuTangerine"><img src="https://avatars.githubusercontent.com/woo4227-lang" width="120px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/JejuTangerine"><img src="https://avatars.githubusercontent.com/JejuTangerine" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/msik-j"><img src="https://avatars.githubusercontent.com/msik-j" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/dayoung-beep"><img src="https://avatars.githubusercontent.com/dayoung-beep" width="120px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/yula2000"><img src="https://avatars.githubusercontent.com/yula2000" width="120px;" alt=""></a></td>
@@ -57,6 +57,9 @@
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1주차 | 인접리스트 | 🥈 [최장경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV7GOPPaAeMDFAXB&categoryId=AV7GOPPaAeMDFAXB&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=2) <br> 🥇 [Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=4&pageSize=10&pageIndex=1) | ✅ <br> ✅ | ✅ <br> ✅ | ✅ <br> ✅ | ✅ <br> ✅ | ✅ <br> ✅ | ❌ <br> ❌ | ❌ <br> ❌ |
 | 2주차 | BFS | 🥈 [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=python3) <br> 🥇 [파핑파핑 지뢰찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&contestProbId=AV5LwsHaD1MDFAXc&categoryId=AV5LwsHaD1MDFAXc&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=4&pageSize=10&pageIndex=2) | | | | | | | |
+| 2주차 | BFS | 🥈 [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=python3) <br> 🥇 [파핑파핑 지뢰찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&contestProbId=AV5LwsHaD1MDFAXc&categoryId=AV5LwsHaD1MDFAXc&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=4&pageSize=10&pageIndex=2) | ✅ <br> ✅ | ✅ <br> ✅ | ✅ <br> ✅ | ✅ <br> ✅ | ✅ <br> ✅ | ❌ <br> ❌ | ❌ <br> ❌ |
+| 3주차 | Priority Queue | 🥈 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=python3) <br> 🥇 [보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | | | | | | | |
+
 
 &nbsp;
 
